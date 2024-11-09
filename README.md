@@ -6,4 +6,5 @@ Benvenuto nel repository **Sysadmin**! Questo spazio raccoglie link utili, scrip
 
 - **Link Utili**: Una raccolta di articoli, documentazione e guide che offrono supporto per una varietà di task amministrativi.
 - **Script Personalizzati**: Script di automazione per task quotidiani, come monitoraggio del sistema, backup, gestione delle utenze e altro.
-- **Strumenti Consigliati**: Strumenti open-source e risorse che facilitano la gestione dei sistemi e il troubleshooting.
+- **Strumenti**: Strumenti e risorse che facilitano la gestione dei sistemi e il troubleshooting.
+- **Guide e procedure**: Istruzioni dettagliate per configurazioni comuni e risoluzione di problemi specifici, pensate per migliorare l'efficienza e la sicurezza delle operazioni di sistema.
