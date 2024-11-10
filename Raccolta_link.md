@@ -3,9 +3,6 @@
 ## Linux
 
 - [How to Uninstall Software Using the Command Line in Linux](https://www.howtogeek.com/229699/how-to-uninstall-software-using-the-command-line-in-linux/)
-
-## Comandi linux
-
 - [Guida rapida ai comandi Linux: Gestione archivi](http://www.magicmill.net/linux/grap/grap-5.html)
 - [Commandline quick tips: How to locate a file - Fedora Magazine](https://fedoramagazine.org/commandline-quick-tips-locate-file/)
 - [Which Linux Package Manager (and Distro) Is Right for You?](https://www.makeuseof.com/tag/power-choice-power-package-management/)
@@ -34,25 +31,17 @@
 ## Mail/phishing
 
 - [Jigsaw | Phishing Quiz](https://phishingquiz.withgoogle.com/)
-
 - [Message Header Analyzer](https://mha.azurewebsites.net/)
-
 - [Free DMARC Domain Check | Is Your Domain Protected? - dmarcian](https://dmarcian.com/domain-checker/)
 
 ## Analisi malware
 
 - [Interactive Online Malware Analysis Sandbox - ANY.RUN](https://app.any.run/)
-
 - [Free Automated Malware Analysis Service - powered by Falcon Sandbox](https://www.hybrid-analysis.com/)
-
 - [Deep Malware Analysis - Joe Sandbox](https://www.joesecurity.org/)
-
 - [Cuckoo Sandbox](https://cuckoo.cert.ee/)
-
 - [CAPE Sandbox](https://www.capesandbox.com/)
-
 - [Intezer Analyze – Security analysts' trusted advisor](https://analyze.intezer.com/)
-
 - [Free Automated Malware Analysis Service - powered by Falcon Sandbox](https://hybrid-analysis.com/)
 
 ## Mac
