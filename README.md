@@ -1,6 +1,6 @@
 # Sysadmin Repository
 
-Benvenuto nel repository **Sysadmin**! Questo spazio raccoglie link utili, script personalizzati e strumenti essenziali per la gestione e l'amministrazione di sistemi IT.
+Questo spazio raccoglie link utili, script personalizzati e strumenti essenziali per la gestione e l'amministrazione di sistemi IT.
 
 ## Contenuti
 
