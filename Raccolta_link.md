@@ -7,19 +7,12 @@
 ## Comandi linux
 
 - [Guida rapida ai comandi Linux: Gestione archivi](http://www.magicmill.net/linux/grap/grap-5.html) - Brief description for Guida rapida ai comandi Linux: Gestione archivi.
-
 - [Commandline quick tips: How to locate a file - Fedora Magazine](https://fedoramagazine.org/commandline-quick-tips-locate-file/) - Brief description for Commandline quick tips: How to locate a file - Fedora Magazine.
-
 - [Which Linux Package Manager (and Distro) Is Right for You?](https://www.makeuseof.com/tag/power-choice-power-package-management/) - Brief description for Which Linux Package Manager (and Distro) Is Right for You?.
-
 - [DistroWatch.com: Put the fun back into computing. Use Linux, BSD.](http://distrowatch.com/) - Brief description for DistroWatch.com: Put the fun back into computing. Use Linux, BSD..
-
 - [AmbienteGrafico/AmbientiDesktop - Wiki di ubuntu-it](https://wiki.ubuntu-it.org/AmbienteGrafico/AmbientiDesktop) - Brief description for AmbienteGrafico/AmbientiDesktop - Wiki di ubuntu-it.
-
 - [Best lightweight Linux distro of 2018 | TechRadar](https://www.techradar.com/news/best-lightweight-linux-distro) - Brief description for Best lightweight Linux distro of 2018 | TechRadar.
-
 - [My Search For The Perfect Linux OS Just Ended — With An Unexpected Surprise](https://www.forbes.com/sites/jasonevangelho/2019/11/05/my-search-for-the-perfect-linux-os-just-ended--with-an-unexpected-surprise/#e4580305cd6e) - Brief description for My Search For The Perfect Linux OS Just Ended — With An Unexpected Surprise.
-
 - [Home | LinuxServer.io](https://www.linuxserver.io/) - Brief description for Home | LinuxServer.io.
 
 - [linuxserver/wikijs - Docker Image | Docker Hub](https://registry.hub.docker.com/r/linuxserver/wikijs/) - Brief description for linuxserver/wikijs - Docker Image | Docker Hub.
