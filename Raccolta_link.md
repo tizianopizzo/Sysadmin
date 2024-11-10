@@ -85,75 +85,50 @@
 
 - [GitHub - Nuzair46/SpotX-Mac: Spotify Ad blocker based on SpotX for MacOS](https://github.com/Nuzair46/SpotX-Mac) - Brief description for GitHub - Nuzair46/SpotX-Mac: Spotify Ad blocker based on SpotX for MacOS.
 
-- [Online IP Subnet Calculator](http://www.subnet-calculator.com/subnet.php?net_class=B) - Brief description for Online IP Subnet Calculator.
+# Networking & IT Tools
+- [Online IP Subnet Calculator](http://www.subnet-calculator.com/subnet.php?net_class=B)  
+- [Networking Protocols | TechnoLush](https://www.technolush.com/blog/networking-protocols)  
+- [PacketFence | Open Source NAC](https://packetfence.org/)  
+- [DNSdumpster.com - dns recon and research, find and lookup dns records](https://dnsdumpster.com/)  
+- [Shodan Command-Line Interface](https://cli.shodan.io/)  
+- [UniFi's Advanced Wi-Fi Settings Explained — McCann Tech](https://evanmccann.net/blog/2021/11/unifi-advanced-wi-fi-settings)  
+- [LTE Italy - Mappa Antenne 4G](https://lteitaly.it/it/)  
+- [IP statico - Un IP pubblico per la tua SIM](https://ipstatico.org/#pricing)
 
-- [Systems Administrators Badass](https://monkeyclothing.club/systems-administrators-badass?s=ceramic-15&c=Black&p=FRONT&pr=SUDO) - Brief description for Systems Administrators Badass.
+# Security & Privacy
+- [evillimiter v1.2.0 releases: limits bandwidth of devices on the same network without access](https://securityonline.info/evillimiter/)  
+- [Email Tracker – Email Header Analyzer | Hacker Web Security](https://www.hackerwebsecurity.com/email-tracker-email-header-analyzer/)  
+- [Privacy Tools: Encryption Against Mass Surveillance](https://www.privacytools.io/)  
+- [Njalla](https://njal.la/#home)  
+- [Shodan Command-Line Interface](https://cli.shodan.io/)  
+- [Top 5 Underground Hacker Forums That are Accessible via Your Web Browsers such as Google Chrome, Firefox, and Internet Explorer - SOCRadar® Cyber Intelligence Inc.](https://socradar.io/top-5-underground-hacker-forums-that-are-accessible-via-your-web-browsers-such-as-google-chrome-firefox-and-internet-explorer/)  
+- [Jhackers - News, Video e Guide sul mondo dell'Ethical Hacking](https://www.jhackers.it/)
 
-- [MediCat DVD: A Multiboot Linux DVD | GBAtemp.net - The Independent Video Game Community](https://gbatemp.net/threads/medicat-dvd-a-multiboot-linux-dvd.361577/) - Brief description for MediCat DVD: A Multiboot Linux DVD | GBAtemp.net - The Independent Video Game Community.
+# System Administration & Tools
+- [Strong Random Password Generator](https://passwordsgenerator.net/)  
+- [Recover deleted files, Partition manager and Windows backup - PartitionGuru](http://www.eassos.com/partitionguru.php)  
+- [How Secure Is My Password?](https://howsecureismypassword.net/)  
+- [Best Practices for Securing Active Directory | Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory)  
+- [Infrastructure & Application Monitoring with Checkmk](https://checkmk.com/)  
+- [Google Workspace Administrator without Paid License](https://kb.zensoft.hu/g-suite-administrator-user-without-email-licence/)
 
-- [Networking Protocols | TechnoLush](https://www.technolush.com/blog/networking-protocols) - Brief description for Networking Protocols | TechnoLush.
+# Programming & Development
+- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/docs/powershell/)  
+- [MediCat DVD: A Multiboot Linux DVD | GBAtemp.net - The Independent Video Game Community](https://gbatemp.net/threads/medicat-dvd-a-multiboot-linux-dvd.361577/)  
+- [Releases · mszoek/airyx · GitHub](https://github.com/mszoek/airyx/releases)  
 
-- [AlternativeTo.net](https://alternativeto.net/) - Brief description for AlternativeTo.net.
+# Miscellaneous Tools & Resources
+- [AlternativeTo.net](https://alternativeto.net/)  
+- [Rimuovere WGA - Windows Genuine Advantage](https://tecnonews.org/rimuovere-wga-windows-genuine-advantage/)  
+- [Trace E-Mail](http://smart-ip.net/trace-email)  
+- [Ricerca torrent](https://www.tsengine.it/)  
+- [Turning On Mac Touch-To-Click Support from the Command Line](https://osxdaily.com/2014/01/31/turn-on-mac-touch-to-click-command-line/)  
+- [IPFS Powers the Distributed Web](https://www.ipfs.io/)  
+- [Unshorten that URL! - Unshorten.It!](https://unshorten.it/)  
+- [No Hat 2022 | Computer Security Conference | Home](https://www.nohat.it/)  
+- [Immagini e foto gratuite ed esenti da royalty · Pexels](https://www.pexels.com/it-it/)  
+- [TechCompenso|Stipendi e RAL in chiaro, Recensioni aziende](https://www.techcompenso.com/)  
+- [airyxOS – Finesse of macOS. Freedom of FreeBSD.](https://airyx.org/)  
 
-- [Rimuovere WGA - Windows Genuine Advantage](https://tecnonews.org/rimuovere-wga-windows-genuine-advantage/) - Brief description for Rimuovere WGA - Windows Genuine Advantage.
-
-- [Recover deleted files, Partition manager and Windows backup - PartitionGuru](http://www.eassos.com/partitionguru.php) - Brief description for Recover deleted files, Partition manager and Windows backup - PartitionGuru.
-
-- [Trace E-Mail](http://smart-ip.net/trace-email) - Brief description for Trace E-Mail.
-
-- [evillimiter v1.2.0 releases: limits bandwidth of devices on the same network without access](https://securityonline.info/evillimiter/) - Brief description for evillimiter v1.2.0 releases: limits bandwidth of devices on the same network without access.
-
-- [Strong Random Password Generator](https://passwordsgenerator.net/) - Brief description for Strong Random Password Generator.
-
-- [LTE Italy - Mappa Antenne 4G](https://lteitaly.it/it/) - Brief description for LTE Italy - Mappa Antenne 4G.
-
-- [PacketFence | Open Source NAC](https://packetfence.org/) - Brief description for PacketFence | Open Source NAC.
-
-- [Ricerca torrent](https://www.tsengine.it/) - Brief description for Ricerca torrent.
-
-- [Turning On Mac Touch-To-Click Support from the Command Line](https://osxdaily.com/2014/01/31/turn-on-mac-touch-to-click-command-line/) - Brief description for Turning On Mac Touch-To-Click Support from the Command Line.
-
-- [Email Tracker – Email Header Analyzer | Hacker Web Security](https://www.hackerwebsecurity.com/email-tracker-email-header-analyzer/) - Brief description for Email Tracker – Email Header Analyzer | Hacker Web Security.
-
-- [How Secure Is My Password?](https://howsecureismypassword.net/) - Brief description for How Secure Is My Password?.
-
-- [Best Practices for Securing Active Directory | Microsoft Docs](https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/plan/security-best-practices/best-practices-for-securing-active-directory) - Brief description for Best Practices for Securing Active Directory | Microsoft Docs.
-
-- [IPFS Powers the Distributed Web](https://www.ipfs.io/) - Brief description for IPFS Powers the Distributed Web.
-
-- [DNSdumpster.com - dns recon and research, find and lookup dns records](https://dnsdumpster.com/) - Brief description for DNSdumpster.com - dns recon and research, find and lookup dns records.
-
-- [Privacy Tools: Encryption Against Mass Surveillance](https://www.privacytools.io/) - Brief description for Privacy Tools: Encryption Against Mass Surveillance.
-
-- [Njalla](https://njal.la/#home) - Brief description for Njalla.
-
-- [REMnux: A Linux Toolkit for Malware Analysts](https://remnux.org/) - Brief description for REMnux: A Linux Toolkit for Malware Analysts.
-
-- [airyxOS – Finesse of macOS. Freedom of FreeBSD.](https://airyx.org/) - Brief description for airyxOS – Finesse of macOS. Freedom of FreeBSD..
-
-- [Releases · mszoek/airyx · GitHub](https://github.com/mszoek/airyx/releases) - Brief description for Releases · mszoek/airyx · GitHub.
-
-- [Infrastructure & Application Monitoring with Checkmk](https://checkmk.com/) - Brief description for Infrastructure & Application Monitoring with Checkmk.
-
-- [Google Workspace Administrator without Paid License](https://kb.zensoft.hu/g-suite-administrator-user-without-email-licence/) - Brief description for Google Workspace Administrator without Paid License.
-
-- [UniFi's Advanced Wi-Fi Settings Explained — McCann Tech](https://evanmccann.net/blog/2021/11/unifi-advanced-wi-fi-settings) - Brief description for UniFi's Advanced Wi-Fi Settings Explained — McCann Tech.
-
-- [IP statico - Un IP pubblico per la tua SIM](https://ipstatico.org/#pricing) - Brief description for IP statico - Un IP pubblico per la tua SIM.
-
-- [Top 5 Underground Hacker Forums That are Accessible via Your Web Browsers such as Google Chrome, Firefox, and Internet Explorer - SOCRadar® Cyber Intelligence Inc.](https://socradar.io/top-5-underground-hacker-forums-that-are-accessible-via-your-web-browsers-such-as-google-chrome-firefox-and-internet-explorer/) - Brief description for Top 5 Underground Hacker Forums That are Accessible via Your Web Browsers such as Google Chrome, Firefox, and Internet Explorer - SOCRadar® Cyber Intelligence Inc..
-
-- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/docs/powershell/) - Brief description for Learn X in Y Minutes: Scenic Programming Language Tours.
-
-- [Shodan Command-Line Interface](https://cli.shodan.io/) - Brief description for Shodan Command-Line Interface.
-
-- [Unshorten that URL! - Unshorten.It!](https://unshorten.it/) - Brief description for Unshorten that URL! - Unshorten.It!.
-
-- [No Hat 2022 | Computer Security Conference | Home](https://www.nohat.it/) - Brief description for No Hat 2022 | Computer Security Conference | Home.
-
-- [Jhackers - News, Video e Guide sul mondo dell'Ethical Hacking](https://www.jhackers.it/) - Brief description for Jhackers - News, Video e Guide sul mondo dell'Ethical Hacking.
-
-- [Immagini e foto gratuite ed esenti da royalty · Pexels](https://www.pexels.com/it-it/) - Brief description for Immagini e foto gratuite ed esenti da royalty · Pexels.
-
-- [TechCompenso|Stipendi e RAL in chiaro, Recensioni aziende](https://www.techcompenso.com/) - Brief description for TechCompenso|Stipendi e RAL in chiaro, Recensioni aziende.
-
+# Miscellaneous & Fun
+- [Systems Administrators Badass](https://monkeyclothing.club/systems-administrators-badass?s=ceramic-15&c=Black&p=FRONT&pr=SUDO)
