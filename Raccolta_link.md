@@ -1,10 +1,4 @@
-# Sysadmin Bookmarks
 
-## Barra dei preferiti
-
-## IT
-
-## Networking/Sysadmin
 
 ## Linux
 
