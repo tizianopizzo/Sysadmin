@@ -10,7 +10,7 @@
 - [Free DMARC Domain Check | Is Your Domain Protected? - dmarcian](https://dmarcian.com/domain-checker/)
 
 
-## Analisi malware
+## Analisi malware / sandbox
 
 - [Interactive Online Malware Analysis Sandbox - ANY.RUN](https://app.any.run/)
 - [Free Automated Malware Analysis Service - powered by Falcon Sandbox](https://www.hybrid-analysis.com/)
