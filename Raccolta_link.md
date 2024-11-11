@@ -13,14 +13,13 @@
 ## Analisi malware / sandbox
 
 - [Interactive Online Malware Analysis Sandbox - ANY.RUN](https://app.any.run/)
-- [Free Automated Malware Analysis Service - powered by Falcon Sandbox](https://www.hybrid-analysis.com/)
 - [Deep Malware Analysis - Joe Sandbox](https://www.joesecurity.org/)
 - [Cuckoo Sandbox](https://cuckoo.cert.ee/)
 - [CAPE Sandbox](https://www.capesandbox.com/)
 - [Intezer Analyze – Security analysts' trusted advisor](https://analyze.intezer.com/)
 - [Free Automated Malware Analysis Service - powered by Falcon Sandbox](https://hybrid-analysis.com/)
 
-## Analisi IP e siti
+## Analisi IP e domini
 - [Threat Intelligence Platform (TIP) | Integrate #1 Cyber Threat Intel APIs](https://threatintelligenceplatform.com/)
 - [Reputation Center - A Real Time Threat Detection Service || Cisco Talos Intelligence Group - Comprehensive Threat Intelligence](https://talosintelligence.com/reputation)
 - [URL and website scanner - urlscan.io](https://urlscan.io/)
