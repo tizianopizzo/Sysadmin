@@ -1,5 +1,5 @@
-#Eseguirlo con taskschd.msc con il seguente argomento: 
-#-ExecutionPolicy Bypass -File "C:\Script\SvuotaDownloadCestino.ps1"
+# Eseguirlo con taskschd.msc scegliendo come programma powershell.exe con il seguente argomento: 
+# -ExecutionPolicy Bypass -File "C:\Script\SvuotaDownloadCestino.ps1"
 
 # Percorso cartella Download dell'utente corrente
 $downloadPath = [Environment]::GetFolderPath("UserProfile") + "\Downloads"
@@ -14,3 +14,4 @@ Get-ChildItem -Path $downloadPath -Directory -Force | Remove-Item -Recurse -Forc
 Clear-RecycleBin -Force -ErrorAction SilentlyContinue
 
 Write-Output "Download e Cestino svuotati correttamente."
+
